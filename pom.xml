@@ -28,7 +28,7 @@
 			<dependency>
 				<groupId>com.alibaba.cloud</groupId>
 				<artifactId>spring-cloud-alibaba-dependencies</artifactId>
-				<version>2.2.5.RELEASE</version>
+				<version>${spring-cloud-alibaba-dependencies.version}</version>
 				<scope>import</scope>
 				<type>pom</type>
 			</dependency>
