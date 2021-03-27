@@ -12,6 +12,14 @@ mvn clean package -DskipTests
 
 将.zip文件放到linux上解压
 
+## 修改配置
+
+.zip文件解压后
+
+有文件`config/application.properties`
+
+可以修改里面的配置，例如更换apollo.meta的地址等
+
 ## 启动
 
 ```bash
